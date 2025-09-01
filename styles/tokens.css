@@ -1,0 +1,11 @@
+:root {
+    --radius-sm: 8px;
+    --radius-md: 16px;
+    --radius-lg: 24px;
+    --shadow-sm: 0 1px 2px rgb(0 0 0 / .06);
+    --shadow-md: 0 2px 8px rgb(0 0 0 / .08);
+    --ease-calm: cubic-bezier(0.2,0,0,1);
+    --color-primary: #2563EB;
+    --color-positive: #14B8A6;
+  }
+  
